@@ -1,0 +1,20 @@
+{
+  "name": "fortnite-scrim-bot",
+  "version": "0.0.1",
+  "description": "A simple discord bot app built on discord.js",
+  "main": "bot/bot.js",
+  "scripts": {
+    "start": "node bot/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "^0.0.6",
+    "sqlite3": "^4.0.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "author": "chocoly"
+}
